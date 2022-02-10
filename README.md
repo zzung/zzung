@@ -1,4 +1,4 @@
-Hi there ! 👋🏻 I'm back-end developer.<br>
+Hi there ! 👋🏻 I'm Back-end Developer.<br>
 <br>
 
 ### 💪🏻 Skills <br>
